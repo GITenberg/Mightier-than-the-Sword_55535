@@ -1,11 +1,16 @@
 _repo: Mightier-than-the-Sword_55535
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55535-h/images/cover.jpg
 creator:
   author:
     agent_name: Courlander, Alphonse
     gutenberg_agent_id: '48389'
     url: http://www.gutenberg.org/2009/agents/48389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55535#Mightier-than-the-Sword
 gutenberg_issued: '2017-09-13'
 gutenberg_type: Text
 identifiers:
